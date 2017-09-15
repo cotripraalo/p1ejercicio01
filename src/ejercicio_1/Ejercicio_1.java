@@ -18,13 +18,12 @@ public class Ejercicio_1 {
         
         while(numero2<0){
       
-      resultado=resultado + numero1;   
+        resultado=resultado + numero1;   
       numero2++;
         }
         
-        for(int n=numero2 ; numero2>0; numero2--){
-           
-        }
+        
+        
         //Mostrar el resultado final
         System.out.println("El resultado de la multiplicacion es: " + resultado);
     }
